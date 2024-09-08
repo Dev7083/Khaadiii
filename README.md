@@ -1,3 +1,3 @@
-# Pacify
+# temp_name
 
-A frontend in development for imagined footwear brand Pacify.
+A Wear Brand in development.
